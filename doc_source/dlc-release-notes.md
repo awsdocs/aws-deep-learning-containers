@@ -8,6 +8,11 @@ Starting with MXNet 1\.9, PyTorch 1\.10, and Tensorflow 2\.7, CPU and GPU Deep L
 ## Single\-framework Deep Learning Containers<a name="appendix-dlc-release-notes-frameworks"></a>
 
 **TensorFlow**
++ [AWS Deep Learning Containers for TensorFlow 2\.11 \(Inference on SageMaker\): December 5, 2022](http://aws.amazon.com/releasenotes/aws-deep-learning-containers-for-tensorflow-2-11-inference-on-sagemaker/)
++ [AWS Deep Learning Containers for TensorFlow 2\.11 \(Inference on EC2, ECS, and EKS\): December 5, 2022](http://aws.amazon.com/releasenotes/aws-deep-learning-containers-for-tensorflow-2-11-inference-on-ec2-ecs-and-eks/)
++ [AWS Deep Learning Containers for TensorFlow 2\.11 \(Training on EC2, ECS, and EKS\): December 5, 2022](http://aws.amazon.com/releasenotes/aws-deep-learning-containers-for-tensorflow-2-11-training-on-ec2-ecs-and-eks/)
++ [AWS Deep Learning Containers for TensorFlow 2\.10 \(Inference on SageMaker\): September 30, 2022](http://aws.amazon.com/releasenotes/aws-deep-learning-containers-for-tensorflow-2-10-inference-on-sagemaker/)
++ [AWS Deep Learning Containers for TensorFlow 2\.10 \(Training on SageMaker\): September 30, 2022](http://aws.amazon.com/releasenotes/aws-deep-learning-containers-for-tensorflow-2-10-training-on-sagemaker/       )
 + [AWS Deep Learning Containers for TensorFlow 2\.10 \(Inference on EC2, ECS, and EKS\): September 15, 2022](http://aws.amazon.com/releasenotes/aws-deep-learning-containers-for-tensorflow-2-10-inference-on-ec2-ecs-and-eks/)
 + [AWS Deep Learning Containers for TensorFlow 2\.10 \(Training on EC2, ECS, and EKS\): May 19, 2022](http://aws.amazon.com/releasenotes/aws-deep-learning-containers-for-tensorflow-2-10-training-on-ec2-ecs-and-eks/)
 + [AWS Deep Learning Containers for TensorFlow 2\.9\.0 \(Inference on SageMaker\): June 18, 2022](http://aws.amazon.com/releasenotes/aws-deep-learning-containers-for-tensorflow-2-9-inference-on-sagemaker/)
@@ -41,6 +46,7 @@ Starting with MXNet 1\.9, PyTorch 1\.10, and Tensorflow 2\.7, CPU and GPU Deep L
 + [AWS Deep Learning Containers for Tensorflow 1\.15\.2 March 19, 2020](http://aws.amazon.com/releasenotes/aws-deep-learning-containers-v4-4-for-tensorflow/)
 
 **PyTorch**
++ [AWS Deep Learning Containers for PyTorch 1\.13\.0 \(EC2, ECS, and EKS\): November 09, 2022](http://aws.amazon.com/releasenotes/aws-deep-learning-containers-for-pytorch-1-13-0-on-ec2-ecs-and-eks/)
 + [AWS Deep Learning Containers for Elastic Inference with PyTorch 1\.5\.1 \(Inference\): September 07, 2022](http://aws.amazon.com/releasenotes/aws-deep-learning-containers-with-amazon-elastic-inference-for-pytorch-1-5-1/)
 + [AWS Deep Learning Containers for PyTorch 1\.12\.0 \(SageMaker\): July 26, 2022](http://aws.amazon.com/releasenotes/aws-deep-learning-containers-for-pytorch-1-12-0-on-sagemaker/)
 + [AWS Deep Learning Containers for PyTorch 1\.12\.0 \(EC2, ECS, and EKS\): July 01, 2022](http://aws.amazon.com/releasenotes/aws-deep-learning-containers-for-pytorch-1-12-0-on-ec2-ecs-and-eks/)
@@ -71,10 +77,12 @@ Starting with MXNet 1\.9, PyTorch 1\.10, and Tensorflow 2\.7, CPU and GPU Deep L
 ## Graviton Deep Learning Containers<a name="appendix-dlc-release-notes-graviton"></a>
 
 **TensorFlow**
++ [AWS Deep Learning Containers for Graviton TensorFlow 2\.9\.1 \(SageMaker\): Oct 20, 2022](http://aws.amazon.com/releasenotes/aws-deep-learning-containers-for-tensorflow-2-9-1-graviton-on-sagemaker/)
 + [AWS Deep Learning Containers for Graviton TensorFlow 2\.9\.1 \(EC2, ECS, and EKS\): August 29, 2022](http://aws.amazon.com/releasenotes/aws-deep-learning-containers-for-tensorflow-2-9-1-graviton-on-ec2-ecs-and-eks/)
 + [AWS Deep Learning Containers for Graviton TensorFlow 2\.7\.0 \(EC2, ECS, and EKS\): December 04, 2021](http://aws.amazon.com/releasenotes/aws-deep-learning-containers-for-tensorflow-2-7-0-graviton-on-ec2-ecs-and-eks-e3/)
 
 **PyTorch**
++ [AWS Deep Learning Containers for Graviton PyTorch 1\.12\.1 \(SageMaker\): Oct 20, 2022](http://aws.amazon.com/releasenotes/aws-deep-learning-containers-for-pytorch-1-12-1-graviton-on-sagemaker/)
 + [AWS Deep Learning Containers for Graviton PyTorch 1\.12\.1 \(EC2, ECS, and EKS\): August 29, 2022](http://aws.amazon.com/releasenotes/aws-deep-learning-containers-for-pytorch-1-12-1-graviton-on-ec2-ecs-and-eks/)
 + [AWS Deep Learning Containers for Graviton PyTorch 1\.10\.0 \(EC2, ECS, and EKS\): December 04, 2021](http://aws.amazon.com/releasenotes/aws-deep-learning-containers-for-pytorch-1-10-0-graviton-on-ec2-ecs-and-eks-e3/)
 
