@@ -13,7 +13,7 @@ For more information, see [Security in Amazon EC2](https://docs.aws.amazon.com//
 **Topics**
 + [Data Protection in AWS Deep Learning Containers](data-protection.md)
 + [Identity and Access Management in AWS Deep Learning Containers](security-iam.md)
-+ [Logging and Monitoring in AWS Deep Learning Containers](logging-and-monitoring.md)
++ [Monitoring and Usage Tracking in AWS Deep Learning Containers](logging-and-monitoring.md)
 + [Compliance Validation for AWS Deep Learning Containers](dlac-compliance.md)
 + [Resilience in AWS Deep Learning Containers](disaster-recovery-resiliency.md)
 + [Infrastructure Security in AWS Deep Learning Containers](infrastructure-security.md)
