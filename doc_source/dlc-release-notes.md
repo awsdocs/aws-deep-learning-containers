@@ -8,6 +8,7 @@ Starting with MXNet 1\.9, PyTorch 1\.10, and Tensorflow 2\.7, CPU and GPU Deep L
 ## Single\-framework Deep Learning Containers<a name="appendix-dlc-release-notes-frameworks"></a>
 
 **TensorFlow**
++ [AWS Deep Learning Containers for TensorFlow 2\.11 \(Training on SageMaker\): January 10, 2023](http://aws.amazon.com/releasenotes/aws-deep-learning-containers-for-tensorflow-2-11-training-on-sagemaker)
 + [AWS Deep Learning Containers for TensorFlow 2\.11 \(Inference on SageMaker\): December 5, 2022](http://aws.amazon.com/releasenotes/aws-deep-learning-containers-for-tensorflow-2-11-inference-on-sagemaker/)
 + [AWS Deep Learning Containers for TensorFlow 2\.11 \(Inference on EC2, ECS, and EKS\): December 5, 2022](http://aws.amazon.com/releasenotes/aws-deep-learning-containers-for-tensorflow-2-11-inference-on-ec2-ecs-and-eks/)
 + [AWS Deep Learning Containers for TensorFlow 2\.11 \(Training on EC2, ECS, and EKS\): December 5, 2022](http://aws.amazon.com/releasenotes/aws-deep-learning-containers-for-tensorflow-2-11-training-on-ec2-ecs-and-eks/)
