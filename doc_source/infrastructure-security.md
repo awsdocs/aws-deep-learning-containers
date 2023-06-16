@@ -1,3 +1,0 @@
-# Infrastructure Security in AWS Deep Learning Containers<a name="infrastructure-security"></a>
-
-The infrastructure security of AWS Deep Learning Containers is backed by Amazon EC2, Amazon ECS, Amazon EKS, or SageMaker\. For more information, see [Infrastructure Security in Amazon EC2](https://docs.aws.amazon.com//AWSEC2/latest/UserGuide/infrastructure-security.html), [Infrastructure Security in Amazon ECS](https://docs.aws.amazon.com//AmazonECS/latest/developerguide/infrastructure-security.html), [Infrastructure Security in Amazon EKS](https://docs.aws.amazon.com//eks/latest/userguide/disaster-recovery-resiliency.html), and [Infrastructure Security in Amazon SageMaker](https://docs.aws.amazon.com//sagemaker/latest/dg/infrastructure-security.html)\.
